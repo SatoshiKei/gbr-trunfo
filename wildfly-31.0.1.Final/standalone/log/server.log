@@ -1,0 +1,1972 @@
+2024-03-20 11:02:43,253 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-2) WFLYMAIL0001: Bound mail session [java:jboss/mail/Default]
+2024-03-20 11:02:43,506 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2024-03-20 11:02:43,509 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2024-03-20 11:02:43,722 INFO  [org.jboss.as.ejb3] (MSC service thread 1-8) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:02:43,909 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0001: Bound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:02:43,910 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-1) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:02:44,623 INFO  [org.jboss.ws.common.management] (MSC service thread 1-7) JBWS022052: Starting JBossWS 7.0.0.Final (Apache CXF 4.0.0) 
+2024-03-20 11:02:44,831 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2024-03-20 11:02:44,838 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2024-03-20 11:02:44,840 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2024-03-20 11:02:44,842 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) started in 8432ms - Started 288 of 530 services (318 services are lazy, passive or on-demand) - Server configuration file in use: standalone.xml
+2024-03-20 11:03:27,028 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0272: Suspending server
+2024-03-20 11:03:27,031 INFO  [org.jboss.as.ejb3] (Thread-1) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:03:27,035 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0220: Server shutdown has been requested via an OS signal
+2024-03-20 11:03:27,052 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0010: Unbound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:03:27,058 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-1) WFLYJCA0010: Unbound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:03:27,059 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0019: Host default-host stopping
+2024-03-20 11:03:27,059 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-6) WFLYMAIL0002: Unbound mail session [java:jboss/mail/Default]
+2024-03-20 11:03:27,069 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0008: Undertow HTTP listener default suspending
+2024-03-20 11:03:27,072 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0008: Undertow HTTPS listener https suspending
+2024-03-20 11:03:27,078 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = postgres
+2024-03-20 11:03:27,090 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0007: Undertow HTTPS listener https stopped, was bound to 127.0.0.1:8443
+2024-03-20 11:03:27,091 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = h2
+2024-03-20 11:03:27,113 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0007: Undertow HTTP listener default stopped, was bound to 127.0.0.1:8080
+2024-03-20 11:03:27,143 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0004: Undertow 2.3.12.Final stopping
+2024-03-20 11:03:27,155 INFO  [org.jboss.as] (MSC service thread 1-1) WFLYSRV0050: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) stopped in 110ms
+2024-03-20 11:08:58,425 INFO  [org.jboss.remoting] (MSC service thread 1-6) JBoss Remoting version 5.0.28.Final
+2024-03-20 11:08:58,507 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0012: Started server default-server.
+2024-03-20 11:08:58,521 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) Queuing requests.
+2024-03-20 11:08:58,561 INFO  [org.jboss.as.ejb3] (MSC service thread 1-3) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:08:58,568 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2024-03-20 11:08:58,582 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2024-03-20 11:08:58,610 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0018: Host default-host starting
+2024-03-20 11:08:58,759 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-6) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:08:58,759 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0001: Bound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:08:58,825 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0220: Server shutdown has been requested via an OS signal
+2024-03-20 11:08:58,853 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-8) WFLYMAIL0002: Unbound mail session [java:jboss/mail/Default]
+2024-03-20 11:08:58,853 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-2) WFLYJCA0010: Unbound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:08:58,854 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-1) WFLYJCA0010: Unbound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:08:58,855 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0019: Host default-host stopping
+2024-03-20 11:08:58,880 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-7) WFLYJCA0019: Stopped Driver service with driver-name = postgres
+2024-03-20 11:08:58,885 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = h2
+2024-03-20 11:08:59,050 INFO  [org.jboss.ws.common.management] (MSC service thread 1-5) JBWS022052: Starting JBossWS 7.0.0.Final (Apache CXF 4.0.0) 
+2024-03-20 11:08:59,058 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0008: Undertow HTTP listener default suspending
+2024-03-20 11:08:59,058 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0008: Undertow HTTPS listener https suspending
+2024-03-20 11:08:59,061 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0007: Undertow HTTP listener default stopped, was bound to 127.0.0.1:8080
+2024-03-20 11:08:59,062 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0007: Undertow HTTPS listener https stopped, was bound to 127.0.0.1:8443
+2024-03-20 11:08:59,069 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0004: Undertow 2.3.12.Final stopping
+2024-03-20 11:08:59,193 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 13) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "jsf")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,193 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 37) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "datasources")]
+}, {
+    "operation" => "add",
+    "jndi-name" => "java:jboss/datasources/ExampleDS",
+    "enabled" => true,
+    "use-java-context" => true,
+    "statistics-enabled" => expression "${wildfly.datasources.statistics-enabled:${wildfly.statistics-enabled:false}}",
+    "address" => [
+        ("subsystem" => "datasources"),
+        ("data-source" => "ExampleDS")
+    ],
+    "connection-url" => expression "jdbc:h2:mem:test;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE;MODE=${wildfly.h2.compatibility.mode:REGULAR}",
+    "driver-name" => "h2",
+    "user-name" => "sa",
+    "password" => "sa"
+}, {
+    "operation" => "add",
+    "jndi-name" => "java:jboss/datasources/SuperTrunfoDS",
+    "address" => [
+        ("subsystem" => "datasources"),
+        ("data-source" => "SuperTrunfoDS")
+    ],
+    "connection-url" => "jdbc:postgresql://localhost/gbr_trunfo",
+    "driver-name" => "postgres",
+    "user-name" => "postgres",
+    "password" => "Elephantintheroom1!"
+}, {
+    "operation" => "add",
+    "driver-major-version" => undefined,
+    "driver-minor-version" => undefined,
+    "driver-module-name" => "com.h2database.h2",
+    "address" => [
+        ("subsystem" => "datasources"),
+        ("jdbc-driver" => "h2")
+    ],
+    "driver-xa-datasource-class-name" => "org.h2.jdbcx.JdbcDataSource"
+}, {
+    "operation" => "add",
+    "driver-major-version" => undefined,
+    "driver-minor-version" => undefined,
+    "driver-module-name" => "org.postgres",
+    "address" => [
+        ("subsystem" => "datasources"),
+        ("jdbc-driver" => "postgres")
+    ],
+    "driver-class-name" => "org.postgresql.Driver"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,194 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 67) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,197 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 69) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,193 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 42) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,202 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 38) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "webservices")],
+    "statistics-enabled" => expression "${wildfly.webservices.statistics-enabled:${wildfly.statistics-enabled:false}}",
+    "wsdl-host" => expression "${jboss.bind.address:127.0.0.1}"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "webservices"),
+        ("endpoint-config" => "Standard-Endpoint-Config")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "webservices"),
+        ("endpoint-config" => "Recording-Endpoint-Config")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "webservices"),
+        ("endpoint-config" => "Recording-Endpoint-Config"),
+        ("pre-handler-chain" => "recording-handlers")
+    ],
+    "protocol-bindings" => "##SOAP11_HTTP ##SOAP11_HTTP_MTOM ##SOAP12_HTTP ##SOAP12_HTTP_MTOM"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "webservices"),
+        ("endpoint-config" => "Recording-Endpoint-Config"),
+        ("pre-handler-chain" => "recording-handlers"),
+        ("handler" => "RecordingHandler")
+    ],
+    "class" => "org.jboss.ws.common.invocation.RecordingServerHandler"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "webservices"),
+        ("client-config" => "Standard-Client-Config")
+    ]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,204 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 48) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,206 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 72) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,207 INFO  [org.jboss.as] (MSC service thread 1-4) WFLYSRV0050: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) stopped in 373ms
+2024-03-20 11:08:59,207 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 25) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "elytron")],
+    "final-providers" => "combined-providers",
+    "disallowed-providers" => ["OracleUcrypto"]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("aggregate-providers" => "combined-providers")
+    ],
+    "providers" => [
+        "elytron",
+        "openssl"
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("provider-loader" => "elytron")
+    ],
+    "module" => "org.wildfly.security.elytron"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("provider-loader" => "openssl")
+    ],
+    "module" => "org.wildfly.openssl"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("file-audit-log" => "local-audit")
+    ],
+    "path" => "audit.log",
+    "relative-to" => "jboss.server.log.dir",
+    "format" => "JSON"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("security-domain" => "ApplicationDomain")
+    ],
+    "default-realm" => "ApplicationRealm",
+    "permission-mapper" => "default-permission-mapper",
+    "realms" => [
+        {
+            "realm" => "ApplicationRealm",
+            "role-decoder" => "groups-to-roles"
+        },
+        {"realm" => "local"}
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("security-domain" => "ManagementDomain")
+    ],
+    "default-realm" => "ManagementRealm",
+    "permission-mapper" => "default-permission-mapper",
+    "realms" => [
+        {
+            "realm" => "ManagementRealm",
+            "role-decoder" => "groups-to-roles"
+        },
+        {
+            "realm" => "local",
+            "role-mapper" => "super-user-mapper"
+        }
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("identity-realm" => "local")
+    ],
+    "identity" => "$local"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("properties-realm" => "ApplicationRealm")
+    ],
+    "users-properties" => {
+        "path" => "application-users.properties",
+        "relative-to" => "jboss.server.config.dir",
+        "digest-realm-name" => "ApplicationRealm"
+    },
+    "groups-properties" => {
+        "path" => "application-roles.properties",
+        "relative-to" => "jboss.server.config.dir"
+    }
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("properties-realm" => "ManagementRealm")
+    ],
+    "users-properties" => {
+        "path" => "mgmt-users.properties",
+        "relative-to" => "jboss.server.config.dir",
+        "digest-realm-name" => "ManagementRealm"
+    },
+    "groups-properties" => {
+        "path" => "mgmt-groups.properties",
+        "relative-to" => "jboss.server.config.dir"
+    }
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("simple-permission-mapper" => "default-permission-mapper")
+    ],
+    "mapping-mode" => "first",
+    "permission-mappings" => [
+        {
+            "principals" => ["anonymous"],
+            "permission-sets" => [{"permission-set" => "default-permissions"}]
+        },
+        {
+            "match-all" => true,
+            "permission-sets" => [
+                {"permission-set" => "login-permission"},
+                {"permission-set" => "default-permissions"}
+            ]
+        }
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("constant-realm-mapper" => "local")
+    ],
+    "realm-name" => "local"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("simple-role-decoder" => "groups-to-roles")
+    ],
+    "attribute" => "groups"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("constant-role-mapper" => "super-user-mapper")
+    ],
+    "roles" => ["SuperUser"]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("permission-set" => "login-permission")
+    ],
+    "permissions" => [{"class-name" => "org.wildfly.security.auth.permission.LoginPermission"}]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("permission-set" => "default-permissions")
+    ],
+    "permissions" => [
+        {
+            "class-name" => "org.wildfly.transaction.client.RemoteTransactionPermission",
+            "module" => "org.wildfly.transaction.client"
+        },
+        {
+            "class-name" => "org.jboss.ejb.client.RemoteEJBPermission",
+            "module" => "org.jboss.ejb-client"
+        },
+        {
+            "class-name" => "org.wildfly.extension.batch.jberet.deployment.BatchPermission",
+            "module" => "org.wildfly.extension.batch.jberet",
+            "target-name" => "*"
+        }
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("http-authentication-factory" => "application-http-authentication")
+    ],
+    "security-domain" => "ApplicationDomain",
+    "http-server-mechanism-factory" => "global",
+    "mechanism-configurations" => [{
+        "mechanism-name" => "BASIC",
+        "mechanism-realm-configurations" => [{"realm-name" => "ApplicationRealm"}]
+    }]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("http-authentication-factory" => "management-http-authentication")
+    ],
+    "security-domain" => "ManagementDomain",
+    "http-server-mechanism-factory" => "global",
+    "mechanism-configurations" => [{
+        "mechanism-name" => "DIGEST",
+        "mechanism-realm-configurations" => [{"realm-name" => "ManagementRealm"}]
+    }]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("provider-http-server-mechanism-factory" => "global")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("sasl-authentication-factory" => "application-sasl-authentication")
+    ],
+    "sasl-server-factory" => "configured",
+    "security-domain" => "ApplicationDomain",
+    "mechanism-configurations" => [
+        {
+            "mechanism-name" => "JBOSS-LOCAL-USER",
+            "realm-mapper" => "local"
+        },
+        {
+            "mechanism-name" => "DIGEST-MD5",
+            "mechanism-realm-configurations" => [{"realm-name" => "ApplicationRealm"}]
+        }
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("sasl-authentication-factory" => "management-sasl-authentication")
+    ],
+    "sasl-server-factory" => "configured",
+    "security-domain" => "ManagementDomain",
+    "mechanism-configurations" => [
+        {
+            "mechanism-name" => "JBOSS-LOCAL-USER",
+            "realm-mapper" => "local"
+        },
+        {
+            "mechanism-name" => "DIGEST-MD5",
+            "mechanism-realm-configurations" => [{"realm-name" => "ManagementRealm"}]
+        }
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("configurable-sasl-server-factory" => "configured")
+    ],
+    "sasl-server-factory" => "elytron",
+    "properties" => {
+        "wildfly.sasl.local-user.default-user" => "$local",
+        "wildfly.sasl.local-user.challenge-path" => expression "${jboss.server.temp.dir}/auth"
+    }
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("mechanism-provider-filtering-sasl-server-factory" => "elytron")
+    ],
+    "sasl-server-factory" => "global",
+    "filters" => [{"provider-name" => "WildFlyElytron"}]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("provider-sasl-server-factory" => "global")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("key-store" => "applicationKS")
+    ],
+    "credential-reference" => {"clear-text" => "password"},
+    "type" => "JKS",
+    "path" => "application.keystore",
+    "relative-to" => "jboss.server.config.dir"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("key-manager" => "applicationKM")
+    ],
+    "key-store" => "applicationKS",
+    "generate-self-signed-certificate-host" => "localhost",
+    "credential-reference" => {"clear-text" => "password"}
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("server-ssl-context" => "applicationSSC")
+    ],
+    "key-manager" => "applicationKM"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "elytron"),
+        ("policy" => "jacc")
+    ],
+    "jacc-policy" => {}
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,208 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 61) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,210 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 44) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,210 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 77) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,211 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 11) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "core-management")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,211 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 14) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "jca")]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("archive-validation" => "archive-validation")
+    ],
+    "enabled" => true,
+    "fail-on-error" => true,
+    "fail-on-warn" => false
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("bean-validation" => "bean-validation")
+    ],
+    "enabled" => true
+}, {
+    "operation" => "add",
+    "name" => "default",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("workmanager" => "default")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("workmanager" => "default"),
+        ("short-running-threads" => "default")
+    ],
+    "core-threads" => 50,
+    "queue-length" => 50,
+    "max-threads" => 50,
+    "keepalive-time" => {
+        "time" => 10L,
+        "unit" => "SECONDS"
+    }
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("workmanager" => "default"),
+        ("long-running-threads" => "default")
+    ],
+    "core-threads" => 50,
+    "queue-length" => 50,
+    "max-threads" => 50,
+    "keepalive-time" => {
+        "time" => 10L,
+        "unit" => "SECONDS"
+    }
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("bootstrap-context" => "default")
+    ],
+    "workmanager" => "default",
+    "name" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jca"),
+        ("cached-connection-manager" => "cached-connection-manager")
+    ],
+    "install" => true
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,211 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 35) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "distributable-ejb")],
+    "default-bean-management" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-ejb"),
+        ("infinispan-bean-management" => "default")
+    ],
+    "max-active-beans" => 10000,
+    "cache-container" => "ejb",
+    "cache" => "passivation"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-ejb"),
+        ("client-mappings-registry" => "local")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-ejb"),
+        ("infinispan-timer-management" => "persistent")
+    ],
+    "cache-container" => "ejb",
+    "cache" => "persistent",
+    "max-active-timers" => 10000
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-ejb"),
+        ("infinispan-timer-management" => "transient")
+    ],
+    "cache-container" => "ejb",
+    "cache" => "transient",
+    "max-active-timers" => 10000
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,211 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 32) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "pojo")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,213 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 46) WFLYCTL0006: Failed executing subsystem discovery boot operations: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:353)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,213 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 12) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "batch-jberet")],
+    "default-job-repository" => "in-memory",
+    "default-thread-pool" => "batch",
+    "security-domain" => "ApplicationDomain"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "batch-jberet"),
+        ("in-memory-job-repository" => "in-memory")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "batch-jberet"),
+        ("thread-pool" => "batch")
+    ],
+    "max-threads" => 10,
+    "keepalive-time" => {
+        "time" => 30L,
+        "unit" => "SECONDS"
+    }
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,213 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 63) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,214 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 5) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "naming")]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "naming"),
+        ("service" => "remote-naming")
+    ]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,214 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 73) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,213 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 75) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,214 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 36) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "ee")],
+    "spec-descriptor-property-replacement" => false
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ee"),
+        ("context-service" => "default")
+    ],
+    "jndi-name" => "java:jboss/ee/concurrency/context/default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ee"),
+        ("managed-thread-factory" => "default")
+    ],
+    "jndi-name" => "java:jboss/ee/concurrency/factory/default",
+    "context-service" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ee"),
+        ("managed-executor-service" => "default")
+    ],
+    "jndi-name" => "java:jboss/ee/concurrency/executor/default",
+    "context-service" => "default",
+    "hung-task-termination-period" => 0L,
+    "hung-task-threshold" => 60000L,
+    "keepalive-time" => 5000L
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ee"),
+        ("managed-scheduled-executor-service" => "default")
+    ],
+    "jndi-name" => "java:jboss/ee/concurrency/scheduler/default",
+    "context-service" => "default",
+    "hung-task-termination-period" => 0L,
+    "hung-task-threshold" => 60000L,
+    "keepalive-time" => 3000L
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ee"),
+        ("service" => "default-bindings")
+    ],
+    "context-service" => "java:jboss/ee/concurrency/context/default",
+    "datasource" => "java:jboss/datasources/ExampleDS",
+    "managed-executor-service" => "java:jboss/ee/concurrency/executor/default",
+    "managed-scheduled-executor-service" => "java:jboss/ee/concurrency/scheduler/default",
+    "managed-thread-factory" => "java:jboss/ee/concurrency/factory/default"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,216 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 6) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "jdr")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,216 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 58) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,218 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 56) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,216 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 53) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,219 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 40) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,216 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 3) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "undertow")],
+    "default-virtual-host" => "default-host",
+    "default-servlet-container" => "default",
+    "default-server" => "default-server",
+    "statistics-enabled" => expression "${wildfly.undertow.statistics-enabled:${wildfly.statistics-enabled:false}}",
+    "default-security-domain" => "other"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("configuration" => "filter")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("configuration" => "handler")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("byte-buffer-pool" => "default")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("buffer-cache" => "default")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("server" => "default-server")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("server" => "default-server"),
+        ("http-listener" => "default")
+    ],
+    "socket-binding" => "http",
+    "redirect-socket" => "https",
+    "enable-http2" => true
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("server" => "default-server"),
+        ("https-listener" => "https")
+    ],
+    "socket-binding" => "https",
+    "ssl-context" => "applicationSSC",
+    "enable-http2" => true
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("server" => "default-server"),
+        ("host" => "default-host")
+    ],
+    "alias" => ["localhost"]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("server" => "default-server"),
+        ("host" => "default-host"),
+        ("location" => "/")
+    ],
+    "handler" => "welcome-content"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("server" => "default-server"),
+        ("host" => "default-host"),
+        ("setting" => "http-invoker")
+    ],
+    "http-authentication-factory" => "application-http-authentication"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("servlet-container" => "default")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("servlet-container" => "default"),
+        ("setting" => "jsp")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("servlet-container" => "default"),
+        ("setting" => "websockets")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("configuration" => "handler"),
+        ("file" => "welcome-content")
+    ],
+    "path" => expression "${jboss.home.dir}/welcome-content"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "undertow"),
+        ("application-security-domain" => "other")
+    ],
+    "security-domain" => "ApplicationDomain"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,219 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 64) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,219 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 74) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 15) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "health")],
+    "security-enabled" => false
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,219 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 4) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "bean-validation")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 76) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 17) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "transactions")],
+    "node-identifier" => expression "${jboss.tx.node.id:1}",
+    "process-id-uuid" => true,
+    "socket-binding" => "txn-recovery-environment",
+    "status-socket-binding" => "txn-status-manager",
+    "statistics-enabled" => expression "${wildfly.transactions.statistics-enabled:${wildfly.statistics-enabled:false}}",
+    "object-store-path" => "tx-object-store",
+    "object-store-relative-to" => "jboss.server.data.dir"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "transactions"),
+        ("log-store" => "log-store")
+    ]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 54) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 33) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "metrics")],
+    "security-enabled" => false,
+    "exposed-subsystems" => ["*"],
+    "prefix" => expression "${wildfly.metrics.prefix:wildfly}"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 23) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "ejb3")],
+    "default-slsb-instance-pool" => "slsb-strict-max-pool",
+    "default-stateful-bean-access-timeout" => 5000L,
+    "default-sfsb-cache" => "simple",
+    "default-sfsb-passivation-disabled-cache" => "simple",
+    "default-singleton-bean-access-timeout" => 5000L,
+    "default-security-domain" => "other",
+    "default-missing-method-permissions-deny-access" => true,
+    "statistics-enabled" => expression "${wildfly.ejb3.statistics-enabled:${wildfly.statistics-enabled:false}}",
+    "log-system-exceptions" => true
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("strict-max-bean-instance-pool" => "slsb-strict-max-pool")
+    ],
+    "derive-size" => "from-worker-pools",
+    "timeout" => 5L,
+    "timeout-unit" => "MINUTES"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("strict-max-bean-instance-pool" => "mdb-strict-max-pool")
+    ],
+    "derive-size" => "from-cpu-count",
+    "timeout" => 5L,
+    "timeout-unit" => "MINUTES"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("simple-cache" => "simple")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("distributable-cache" => "distributable")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("service" => "async")
+    ],
+    "thread-pool-name" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("service" => "timer-service")
+    ],
+    "thread-pool-name" => "default",
+    "default-data-store" => "default-file-store"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("service" => "timer-service"),
+        ("file-data-store" => "default-file-store")
+    ],
+    "path" => "timer-service-data",
+    "relative-to" => "jboss.server.data.dir"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("service" => "remote")
+    ],
+    "cluster" => "ejb",
+    "connectors" => ["http-remoting-connector"],
+    "thread-pool-name" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("service" => "remote"),
+        ("channel-creation-options" => "MAX_OUTBOUND_MESSAGES")
+    ],
+    "value" => "1234",
+    "type" => "remoting"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("thread-pool" => "default")
+    ],
+    "max-threads" => 10,
+    "keepalive-time" => {
+        "time" => 60L,
+        "unit" => "SECONDS"
+    }
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "ejb3"),
+        ("application-security-domain" => "other")
+    ],
+    "security-domain" => "ApplicationDomain"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 2) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "microprofile-jwt-smallrye")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 31) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "jpa")],
+    "default-extended-persistence-inheritance" => "DEEP"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 59) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 45) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 50) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 49) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 70) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 10) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "discovery")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 8) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "security-manager")]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "security-manager"),
+        ("deployment-permissions" => "default")
+    ],
+    "maximum-permissions" => [{"class" => "java.security.AllPermission"}]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 39) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "weld")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,222 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 65) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,238 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 66) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 20) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "elytron-oidc-client")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 43) WFLYCTL0006: Failed executing subsystem core-management boot operations: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:353)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,236 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 52) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 29) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "distributable-web")],
+    "default-session-management" => "default",
+    "default-single-sign-on-management" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-web"),
+        ("infinispan-session-management" => "default")
+    ],
+    "cache-container" => "web",
+    "granularity" => "SESSION"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-web"),
+        ("infinispan-session-management" => "default"),
+        ("affinity" => "local")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-web"),
+        ("infinispan-single-sign-on-management" => "default")
+    ],
+    "cache-container" => "web",
+    "cache" => "sso"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "distributable-web"),
+        ("routing" => "local")
+    ]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,221 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 21) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "deployment-scanner")]
+}, {
+    "operation" => "add",
+    "path" => "deployments",
+    "relative-to" => "jboss.server.base.dir",
+    "scan-interval" => 5000,
+    "runtime-failure-causes-rollback" => expression "${jboss.deployment.scanner.rollback.on.failure:false}",
+    "address" => [
+        ("subsystem" => "deployment-scanner"),
+        ("scanner" => "default")
+    ]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 47) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 7) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "mail")]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "mail"),
+        ("mail-session" => "default")
+    ],
+    "jndi-name" => "java:jboss/mail/Default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "mail"),
+        ("mail-session" => "default"),
+        ("server" => "smtp")
+    ],
+    "outbound-socket-binding-ref" => "mail-smtp"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 9) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "remoting")],
+    "worker" => "default"
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "remoting"),
+        ("http-connector" => "http-remoting-connector")
+    ],
+    "connector-ref" => "default",
+    "sasl-authentication-factory" => "application-sasl-authentication"
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 22) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "jmx")]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jmx"),
+        ("expose-model" => "resolved")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jmx"),
+        ("expose-model" => "expression")
+    ]
+}, {
+    "operation" => "add",
+    "address" => [
+        ("subsystem" => "jmx"),
+        ("remoting-connector" => "jmx")
+    ]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 30) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "request-controller")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,220 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 19) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "jaxrs")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,219 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 27) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "ee-security")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,218 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 18) WFLYCTL0403: Unexpected failure during execution of the following operation(s): [{
+    "operation" => "add",
+    "address" => [("subsystem" => "sar")]
+}]: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:08:59,219 ERROR [org.jboss.as.controller.management-operation] (ServerService Thread Pool -- 57) WFLYCTL0403: Unexpected failure during execution of the following operation(s): []: java.lang.RuntimeException: WFLYCTL0195: Interrupted awaiting transaction commit or rollback
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTransactionControl.operationPrepared(ParallelBootOperationStepHandler.java:438)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ModelController$OperationTransactionControl.operationPrepared(ModelController.java:77)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeDoneStage(AbstractOperationContext.java:864)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.processStages(AbstractOperationContext.java:795)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.AbstractOperationContext.executeOperation(AbstractOperationContext.java:460)
+	at org.jboss.as.controller@23.0.3.Final//org.jboss.as.controller.ParallelBootOperationStepHandler$ParallelBootTask.run(ParallelBootOperationStepHandler.java:368)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1348)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.JBossThread.run(JBossThread.java:513)
+
+2024-03-20 11:36:13,937 INFO  [org.jboss.remoting] (MSC service thread 1-3) JBoss Remoting version 5.0.28.Final
+2024-03-20 11:36:14,019 INFO  [org.jboss.as.ejb3] (MSC service thread 1-3) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:36:14,050 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0012: Started server default-server.
+2024-03-20 11:36:14,100 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) Queuing requests.
+2024-03-20 11:36:14,109 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:36:14,121 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-6) WFLYJCA0001: Bound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:36:14,123 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0018: Host default-host starting
+2024-03-20 11:36:14,128 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2024-03-20 11:36:14,137 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2024-03-20 11:36:14,335 INFO  [org.jboss.ws.common.management] (MSC service thread 1-4) JBWS022052: Starting JBossWS 7.0.0.Final (Apache CXF 4.0.0) 
+2024-03-20 11:36:14,458 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2024-03-20 11:36:14,463 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2024-03-20 11:36:14,465 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2024-03-20 11:36:14,469 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) started in 6038ms - Started 288 of 530 services (318 services are lazy, passive or on-demand) - Server configuration file in use: standalone.xml
+2024-03-20 11:36:42,346 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0272: Suspending server
+2024-03-20 11:36:42,348 INFO  [org.jboss.as.ejb3] (Thread-1) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:36:42,351 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0220: Server shutdown has been requested via an OS signal
+2024-03-20 11:36:42,364 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-8) WFLYJCA0010: Unbound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:36:42,364 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0010: Unbound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:36:42,364 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-2) WFLYMAIL0002: Unbound mail session [java:jboss/mail/Default]
+2024-03-20 11:36:42,366 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0019: Host default-host stopping
+2024-03-20 11:36:42,368 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0008: Undertow HTTPS listener https suspending
+2024-03-20 11:36:42,370 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0008: Undertow HTTP listener default suspending
+2024-03-20 11:36:42,373 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-3) WFLYJCA0019: Stopped Driver service with driver-name = postgres
+2024-03-20 11:36:42,380 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0007: Undertow HTTP listener default stopped, was bound to 127.0.0.1:8080
+2024-03-20 11:36:42,383 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0007: Undertow HTTPS listener https stopped, was bound to 127.0.0.1:8443
+2024-03-20 11:36:42,398 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-2) WFLYJCA0019: Stopped Driver service with driver-name = h2
+2024-03-20 11:36:42,403 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0004: Undertow 2.3.12.Final stopping
+2024-03-20 11:36:42,423 INFO  [org.jboss.as] (MSC service thread 1-6) WFLYSRV0050: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) stopped in 69ms
+2024-03-20 11:43:46,563 INFO  [org.jboss.remoting] (MSC service thread 1-5) JBoss Remoting version 5.0.28.Final
+2024-03-20 11:43:46,568 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0012: Started server default-server.
+2024-03-20 11:43:46,683 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) Queuing requests.
+2024-03-20 11:43:46,717 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2024-03-20 11:43:46,719 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2024-03-20 11:43:46,725 INFO  [org.jboss.as.ejb3] (MSC service thread 1-4) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:43:46,787 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0018: Host default-host starting
+2024-03-20 11:43:46,841 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-3) WFLYJCA0001: Bound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:43:46,841 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-7) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:43:46,965 INFO  [org.jboss.ws.common.management] (MSC service thread 1-5) JBWS022052: Starting JBossWS 7.0.0.Final (Apache CXF 4.0.0) 
+2024-03-20 11:43:47,168 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2024-03-20 11:43:47,177 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2024-03-20 11:43:47,179 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2024-03-20 11:43:47,182 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) started in 5440ms - Started 288 of 530 services (318 services are lazy, passive or on-demand) - Server configuration file in use: standalone.xml
+2024-03-20 11:44:46,359 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0272: Suspending server
+2024-03-20 11:44:46,361 INFO  [org.jboss.as.ejb3] (Thread-1) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2024-03-20 11:44:46,363 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0220: Server shutdown has been requested via an OS signal
+2024-03-20 11:44:46,372 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0010: Unbound data source [java:jboss/datasources/ExampleDS]
+2024-03-20 11:44:46,373 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-1) WFLYJCA0010: Unbound data source [java:jboss/datasources/SuperTrunfoDS]
+2024-03-20 11:44:46,375 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-3) WFLYMAIL0002: Unbound mail session [java:jboss/mail/Default]
+2024-03-20 11:44:46,375 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-5) WFLYUT0019: Host default-host stopping
+2024-03-20 11:44:46,377 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0008: Undertow HTTPS listener https suspending
+2024-03-20 11:44:46,378 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0008: Undertow HTTP listener default suspending
+2024-03-20 11:44:46,383 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-7) WFLYJCA0019: Stopped Driver service with driver-name = h2
+2024-03-20 11:44:46,391 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0007: Undertow HTTP listener default stopped, was bound to 127.0.0.1:8080
+2024-03-20 11:44:46,392 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0007: Undertow HTTPS listener https stopped, was bound to 127.0.0.1:8443
+2024-03-20 11:44:46,403 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-3) WFLYJCA0019: Stopped Driver service with driver-name = postgres
+2024-03-20 11:44:46,405 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0004: Undertow 2.3.12.Final stopping
+2024-03-20 11:44:46,424 INFO  [org.jboss.as] (MSC service thread 1-8) WFLYSRV0050: WildFly Full 31.0.1.Final (WildFly Core 23.0.3.Final) stopped in 56ms
